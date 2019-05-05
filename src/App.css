@@ -1,0 +1,19 @@
+/* 修改左侧菜单样式 */
+.ant-menu-inline{
+    color: white;
+    background-color: #393D49;
+    background-color: rgba(0,0,0,.3)!important;
+}
+.ant-layout-header{
+    background-color: #23262E;
+}
+
+.logo{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.layui-logo{
+    color: #5fb878;
+    font-size: 19px;
+}
