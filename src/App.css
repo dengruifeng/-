@@ -17,3 +17,7 @@
     color: #5fb878;
     font-size: 19px;
 }
+.ant-menu-item > a {
+    color: white;
+    
+}

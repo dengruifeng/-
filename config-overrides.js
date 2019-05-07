@@ -13,6 +13,6 @@ module.exports = override(
    addLessLoader({
        javascriptEnabled: true,
        //改antd全局颜色
-      //  modifyVars: { '@primary-color': 'pink' ,},
+      //modifyVars: { '@primary-color': 'pink' ,},
      }),
 );
